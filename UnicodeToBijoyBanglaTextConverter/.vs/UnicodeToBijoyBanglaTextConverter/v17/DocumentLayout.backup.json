@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|c:\\users\\zunayed\\source\\repos\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|solutionrelative:unicodetobijoybanglatextconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|c:\\users\\zunayed\\source\\repos\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|solutionrelative:unicodetobijoybanglatextconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|c:\\users\\zunayed\\source\\repos\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|solutionrelative:unicodetobijoybanglatextconverter\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|c:\\users\\zunayed\\source\\repos\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter\\convertertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|solutionrelative:unicodetobijoybanglatextconverter\\convertertools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|c:\\users\\zunayed\\source\\repos\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|solutionrelative:unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|c:\\users\\zunayed\\source\\repos\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{996C5996-554F-4972-814B-31501C98115C}|UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj|solutionrelative:unicodetobijoybanglatextconverter\\unicodetobijoybanglatextconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnicodeToBijoyBanglaTextConverter.csproj",
+              "DocumentMoniker": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "RelativeDocumentMoniker": "UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "ToolTip": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "RelativeToolTip": "UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T07:16:59.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnicodeToBijoyBanglaTextConverter",
+              "DocumentMoniker": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "RelativeDocumentMoniker": "UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "ToolTip": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "RelativeToolTip": "UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T07:17:01.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConverterTools.cs",
+              "DocumentMoniker": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\ConverterTools.cs",
+              "RelativeDocumentMoniker": "UnicodeToBijoyBanglaTextConverter\\ConverterTools.cs",
+              "ToolTip": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\ConverterTools.cs",
+              "RelativeToolTip": "UnicodeToBijoyBanglaTextConverter\\ConverterTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:46:28.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\Converter.cs",
+              "RelativeDocumentMoniker": "UnicodeToBijoyBanglaTextConverter\\Converter.cs",
+              "ToolTip": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\Converter.cs",
+              "RelativeToolTip": "UnicodeToBijoyBanglaTextConverter\\Converter.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAUwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:43:37.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml",
+              "RelativeToolTip": "UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T07:17:52.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Zunayed\\source\\repos\\UnicodeToBijoyBanglaTextConverter\\UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UnicodeToBijoyBanglaTextConverter\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:32:43.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

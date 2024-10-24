@@ -1,0 +1,50 @@
+﻿<Window x:Class="UnicodeToBijoyBanglaTextConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UnicodeToBijoyBanglaTextConverter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="True">
+        <TextBlock Text="Unicode থেকে বিজয়ের বাংলা লেখার Converter" Padding="16" FontWeight="Bold" FontSize="16" DockPanel.Dock="Top" />
+
+        <DockPanel LastChildFill="True">
+            <StackPanel DockPanel.Dock="Top" Orientation="Vertical" Margin="16,0,16,0">
+                <TextBlock Text="ইউনিকোড কি-বোর্ডের লেখা এখানে পেস্ট করুন" Margin="0,0,0,16" />
+                <TextBox x:Name="InputTextbox"
+                         Margin="0,0,0,8"
+                         TextWrapping="Wrap"
+                         AcceptsReturn="True"
+                         FontSize="14"
+                         VerticalScrollBarVisibility="Visible"
+                         Height="100"/>
+
+                <TextBlock Text="বিজয় কি-বোর্ডের লেখা এখানে দেখাবে" Margin="0,8,0,8" />
+            </StackPanel>
+
+            <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Center" Margin="16">
+                <Button Padding="8" Margin="0,0,16,0" Name="ClearButton" Click="ClearButton_Click">
+                    লেখা মুছে ফেলুন
+                </Button>
+
+                <Button Padding="8" Margin="0,0,16,0" Name="CopyButton" IsEnabled="False" Click="CopyButton_Click">
+                    লেখা Copy করুন
+                </Button>
+
+                <Button Padding="8" Name="ConvertButton" Click="ConvertButton_Click">
+                    Unicode থেকে বিজয়তে Convert করুন
+                </Button>
+            </StackPanel>
+
+            <TextBox x:Name="OutputTextbox"
+                     Margin="16,0,16,0"
+                     FontFamily="SutonnyMJ"
+                     TextWrapping="Wrap"
+                     AcceptsReturn="True"
+                     FontSize="19"
+                     VerticalScrollBarVisibility="Visible"
+                     TextChanged="OutputTextbox_TextChanged"/>
+        </DockPanel>
+    </DockPanel>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\Zunayed\source\repos\UnicodeToBijoyBanglaTextConverter\UnicodeToBijoyBanglaTextConverter\bin\Release\net8.0-windows\publish\UnicodeToBijoyBanglaTextConverter.exe
+C:\Users\Zunayed\source\repos\UnicodeToBijoyBanglaTextConverter\UnicodeToBijoyBanglaTextConverter\bin\Release\net8.0-windows\publish\convert.ico
+C:\Users\Zunayed\source\repos\UnicodeToBijoyBanglaTextConverter\UnicodeToBijoyBanglaTextConverter\bin\Release\net8.0-windows\publish\UnicodeToBijoyBanglaTextConverter.dll
+C:\Users\Zunayed\source\repos\UnicodeToBijoyBanglaTextConverter\UnicodeToBijoyBanglaTextConverter\bin\Release\net8.0-windows\publish\UnicodeToBijoyBanglaTextConverter.deps.json
+C:\Users\Zunayed\source\repos\UnicodeToBijoyBanglaTextConverter\UnicodeToBijoyBanglaTextConverter\bin\Release\net8.0-windows\publish\UnicodeToBijoyBanglaTextConverter.runtimeconfig.json
+C:\Users\Zunayed\source\repos\UnicodeToBijoyBanglaTextConverter\UnicodeToBijoyBanglaTextConverter\bin\Release\net8.0-windows\publish\UnicodeToBijoyBanglaTextConverter.pdb
+C:\Users\Zunayed\source\repos\UnicodeToBijoyBanglaTextConverter\UnicodeToBijoyBanglaTextConverter\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
