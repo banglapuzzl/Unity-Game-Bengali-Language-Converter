@@ -30,4 +30,4 @@ You will need the
 ![Screenshot](https://github.com/banglapuzzl/Unity-Game-Bengali-Language-Converter/blob/main/screenshot_2.png?raw=true)
 
 # What other converter shows output except us (Wrong output)
-![Screenshot]([https://github.com/banglapuzzl/Unity-Game-Bengali-Language-Converter/blob/main/screenshot_2.png?raw=true](https://raw.githubusercontent.com/banglapuzzl/Unity-Game-Bengali-Language-Converter/refs/heads/main/screenshot_4.png))
+![Screenshot](https://raw.githubusercontent.com/banglapuzzl/Unity-Game-Bengali-Language-Converter/refs/heads/main/screenshot_4.png)
